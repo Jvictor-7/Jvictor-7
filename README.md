@@ -4,7 +4,7 @@
   <img src="https://cdn.discordapp.com/attachments/886361612125085716/996844324815917076/giphy_1.gif">
   
   ##
-  <h4><li>WeLcOmE, my name is <b>João Victor</b>. I'm currently:</li></h4>
+  <h4><li>Welcome! My name is <b>João Victor</b>. I'm currently:</li></h4>
    
 </div>
 
