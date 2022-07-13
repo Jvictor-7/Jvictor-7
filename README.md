@@ -16,7 +16,7 @@
 
 ##
 
-<div align="center" style="text-decoration:none;>
+<div align="center" style="text-decoration:none;">
 
   <h4><li>More informations:</li></h4>
   
