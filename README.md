@@ -1,5 +1,5 @@
 
-<div align="center" height="80" width="120" background="#fff">
+<div align="center">
 
   <img src="https://cdn.discordapp.com/attachments/886361612125085716/996844324815917076/giphy_1.gif">
   
@@ -16,7 +16,7 @@
 
 ##
 
-<div align="center" style="text-decoration:none;">
+<div align="center" style="text-decoration:none;>
 
   <h4><li>More informations:</li></h4>
   
