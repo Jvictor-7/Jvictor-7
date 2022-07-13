@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img height="200" width="200" src="https://cdn.discordapp.com/attachments/886361612125085716/996869759188619314/hacker.jpg">
+  <img height="150" width="150" src="https://cdn.discordapp.com/attachments/886361612125085716/996869759188619314/hacker.jpg">
   <div>- Studying Computer Science at <b>UFAL</b>, and Internship in <b>SEDUC</b>'s IT area...</div>
   <div>- Learning some stuff like: <b>Laravel, PHP, C++, HTML, CSS, Javascript and Bootstrap</b>...</div>
   <div>- Looking for any area of programming that is related to music...</div>
